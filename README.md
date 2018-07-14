@@ -1,4 +1,4 @@
-# SpringBootCURD
+# SpringBootCRUD
 # Creating a CRUD REST API/Service with Spring Boot, JPA and Hibernate
 
 This guide will help you create a CRUD REST API/Service with Spring Boot, JPA and Hibernate. We will create a JPA Repository for a Student Entity and expose it using a Student Resource.
